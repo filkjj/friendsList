@@ -1,1 +1,3 @@
-console.log("hjiasd asd");
+const domCalls = require('./domCalls');
+
+domCalls.tryThis();
